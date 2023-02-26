@@ -1,11 +1,11 @@
 # Экономика отраслевых рынков
 
+Это страница с материалами семинаров курса по экономике отраслевых рынков, читаемого в бакалавриате экономического факультета МГУ в 2022-2023 учебном году.
+ 
 - [Папка с семинарами](https://github.com/annastavniychuk/IndustrialOrganizationMSU/tree/main/seminars)
 - [Папка с лекциями](https://github.com/annastavniychuk/IndustrialOrganizationMSU/tree/main/lectures) (только теми, которые читала я, остальные ищите на on.econ)
 - [Папка с учебниками](https://github.com/annastavniychuk/IndustrialOrganizationMSU/tree/main/textbooks)
 
-Это страница с материалами семинаров курса по экономике отраслевых рынков, читаемого в бакалавриате экономического факультета МГУ в 2022-2023 учебном году.
- 
 | **Неделя** |         **Тема лекции**        |                               **Задание к семинару**                               | **Что обсуждали на семинаре** |                                           **Что почитать**                                           |
 |:----------:|:------------------------------:|:----------------------------------------------------------------------------------:|:-----------------------------:|:----------------------------------------------------------------------------------------------------:|
 |      1     | [Введение и парадигма SCP](https://github.com/annastavniychuk/IndustrialOrganizationMSU/blob/main/lectures/01_Intro_lec_11feb.pdf)       | -                                                                                  | -                             | <br> Розанова Н.М. Теория отраслевых рынков. Глава 4. История и современные тенденции развития экономики отраслевых рынков и конкурентной политик <br><br> [Lipczynski J., Wilson J. O. S., Goddard J. A. Industrial organization: competition, strategy, policy. Chapter 1. Industrial organization: an introduction](https://github.com/annastavniychuk/IndustrialOrganizationMSU/blob/main/textbooks/Lipczynski_Goddard_Wilson_Industrial%20Organization_%20Competition%2C%20Strategy%20and%20Policy_2017.pdf) <br><br> [Carlton D. W., Perloff J. M. Modern industrial organization. Chapter 1. Overwiev](https://github.com/annastavniychuk/IndustrialOrganizationMSU/blob/main/textbooks/Perloff_Carlton_Modern%20Industrial%20Organization_2015.pdf) <br>|
