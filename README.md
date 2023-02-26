@@ -2,6 +2,8 @@
 
 Это страница с материалами семинаров курса по экономике отраслевых рынков, читаемого в бакалавриате экономического факультета МГУ в 2022-2023 учебном году.
  
+[Ссылка на чат семианрской группы](https://t.me/+1BNQR2CnvQE0N2Iy)
+
 - [Папка с семинарами](https://github.com/annastavniychuk/IndustrialOrganizationMSU/tree/main/seminars)
 - [Папка с лекциями](https://github.com/annastavniychuk/IndustrialOrganizationMSU/tree/main/lectures) (только теми, которые читала я, остальные ищите на on.econ)
 - [Папка с учебниками](https://github.com/annastavniychuk/IndustrialOrganizationMSU/tree/main/textbooks)
